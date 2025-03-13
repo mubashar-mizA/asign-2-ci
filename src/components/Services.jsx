@@ -29,7 +29,7 @@ const Services = () => {
 
           <button
             className=" px-5 py-2 rounded-md bg-[#004C83] text-white text-[12px] hover:bg-white hover:border-[#004C83] hover:text-[#004C83] animation duration-300 border-2"
-          ><a href="3">{service.buttonText}</a></button>
+          ><a href="https://github.com/mubashar-mizA/asign-2-ci">{service.buttonText}</a></button>
 
         </div>
 
